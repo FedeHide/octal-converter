@@ -1,0 +1,14 @@
+{
+  "name": "octal-converter",
+  "version": "1.0.0",
+  "description": "octal to ASCII converter",
+  "keywords": [
+    "octal",
+    "converter",
+    "ascii"
+  ],
+  "author": {
+		"name": "@FedeHide"
+	},
+  "license": "MIT"
+}
