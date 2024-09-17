@@ -15,7 +15,7 @@ This is a Octal to text converter.
 
 ------------
 
-[![https://raw.githubusercontent.com/FedeHide/octal-converter/main/public/images/octal-text-screenshot.webp](https://raw.githubusercontent.com/FedeHide/octal-converter/main/public/images/octal-converter-screenshot.webp)](https://raw.githubusercontent.com/FedeHide/octal-converter/main/public/images/octal-text-screenshot.webp)
+[![https://raw.githubusercontent.com/FedeHide/octal-converter/main/public/images/octal-text-screenshot.webp](https://raw.githubusercontent.com/FedeHide/octal-converter/main/public/images/octal-converter-screenshot.webp)](https://fedehide.github.io/octal-converter)
 
 ## Features
 
